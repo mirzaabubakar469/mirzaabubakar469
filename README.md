@@ -3,7 +3,7 @@
 ### Aspiring SOC Analyst | Cyber Security Learner | Defensive Security
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+SOC+Analyst;Cyber+Security+%7C+Blue+Team;Learning+by+Doing;Defending+Systems+One+Log+At+A+Time" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+SOC+Analyst;Cyber+Security;Defending+Systems" />
 </p>
 
 <p align="center">
@@ -16,8 +16,6 @@
 
 I am an undergraduate **BS Computer Science Student** focused on **Cyber Security Defensive Operation**.
 My approach is **Fundamentals → Hands-on labs → Real tools**.
-
-I use GitHub to **document my learning**, practice detection techniques, and build skills required for **Cyber Security SOC** roles.
 
 <br></br>
 
@@ -42,16 +40,12 @@ I am actively working on Foundations:
   <img src="https://img.shields.io/badge/Firewalls-B22222?style=flat" />
 </p>
 
-
-
 ### 🖥️ Operating Systems
 
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-000000?style=flat&logo=linux" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows" />
 </p>
-
-
 
 ### 🔐 Cyber Security
 
@@ -60,8 +54,6 @@ I am actively working on Foundations:
   <img src="https://img.shields.io/badge/SIEM_(Splunk)-000000?style=flat&logo=splunk" />
   <img src="https://img.shields.io/badge/MITRE_ATT%26CK-C00000?style=flat" />
 </p>
-
-
 
 ### 🧰 Tools
 
@@ -82,23 +74,17 @@ I am actively working on Foundations:
 SOC concepts, alert triage, incident lifecycle, analyst notes
 **Skills Used:** SOC workflow, detection basics
 
-
-
 ### 🔹 SIEM-Log-Analysis
 
 **Description:**
 Log analysis using Splunk to detect brute-force and suspicious activity
 **Skills Used:** SIEM, alert analysis, log correlation
 
-
-
 ### 🔹 Networking-Labs
 
 **Description:**
 Packet capture and protocol analysis using Wireshark
 **Skills Used:** TCP/IP, DNS, traffic analysis
-
-
 
 ### 🔹 Linux-for-SOC
 
@@ -111,22 +97,29 @@ Linux commands and log locations used by SOC analysts
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mirzaabubakar469&theme=tokyonight" />
 </p>
 
 <br></br>
 
 ## 📚 Learning Platforms
 
-<p align="left">
-  <img src="https://img.shields.io/badge/TryHackMe-88CC14?style=flat&logo=tryhackme" />
-  <img src="https://img.shields.io/badge/Hack_The_Box-111927?style=flat&logo=hackthebox" />
-  <img src="https://img.shields.io/badge/Cisco_Networking_Academy-1BA0D7?style=flat" />
-</p>
+### 📺 Recommended Tech & Cybersecurity Channels
+
+* **[ITkFunde](https://www.youtube.com/@ITkFunde)**
+  Beginner-friendly videos that explain **IT fundamentals, networking basics, and cybersecurity concepts**.
+
+* **[NetworkChuck](https://www.youtube.com/@NetworkChuck)**
+  Tech tutorials covering **networking, systems, and cybersecurity basics**.
+
+* **[TechTermsDG](https://www.youtube.com/@TechTermsDG)**
+  Short tech videos explaining **computer and IT terms**, protocols, and concepts.
+
+* **[Gate Smashers](https://www.youtube.com/@GateSmashers)**
+  Channel focused on **computer science, IT concepts, and practical tech explanations**.
+
+* **[Try Hack Me](https://tryhackme.com/)**
+Hands-on cyber security training through real-world scenarios
 
 <br></br>
 
