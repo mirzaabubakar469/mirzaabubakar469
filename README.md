@@ -1,25 +1,32 @@
-# 🛡️ Mirza Abubakar
-
-### Aspiring SOC Analyst | Cyber Security Learner | Defensive Security
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+SOC+Analyst;Cyber+Security;Defending+Systems" />
+<h1>
+  <p align="center">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="waving hand"/>
+ I'm Mirza Abubakar
+</p>
+</h1>
+<p align="center"><strong>
+🕵️‍♂️ SOC Analyst |🔐 Cyber Security Enthusiast |🛡️ Defensive Security
+  </strong>
 </p>
 
 <p align="center">
-📍 Pakistan &nbsp;•&nbsp; 🌍 Open to Remote / On-site  
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&width=700&lines=Security+Operation+Centre;Cyber+Security+Leaner;Defending+Systems" />
 </p>
 
-<br></br>
+---
 
-## 👤 About Me
+## 🧑‍🎓 About Me
 
-I am an undergraduate **BS Computer Science Student** focused on **Cyber Security Defensive Operation**.
-My approach is **Fundamentals → Hands-on labs → Real tools**.
+* I am an **undergraduate BS Computer Science student** focused on **Cyber Security Defensive Operations (SOC)**.
+* My approach to learning:
 
-<br></br>
+  * **Fundamentals** – solid understanding of networking, OS, and security concepts
+  * **Hands-on Labs** – practical exercises and simulations
+  * 🎯 **Goal** – Build a strong foundation to become a **SOC Analyst / Cybersecurity Professional**.
 
-## 🎯 Current Focus
+---
+
+## 🌱  Current Focus
 
 I am actively working on Foundations:
 
@@ -27,72 +34,38 @@ I am actively working on Foundations:
 * 🖥️ **Operating System**
 * 🔐 **Cyber Security**
 
-<br></br>
+---
 
-## 🛠️ Skills & Tools
-
+## 🛠️ Technical Skills & Tools
 ### 🌐 Networking
 
 <p align="left">
-  <img src="https://img.shields.io/badge/TCP/IP-0052CC?style=flat" />
-  <img src="https://img.shields.io/badge/DNS-2E8B57?style=flat" />
-  <img src="https://img.shields.io/badge/DHCP-DAA520?style=flat" />
-  <img src="https://img.shields.io/badge/Firewalls-B22222?style=flat" />
+  <img src="https://img.shields.io/badge/OSI Model-E34F26?style=flat&logoColor=white" alt="OSI"/>
+  <img src="https://img.shields.io/badge/TCP/IP-0052CC?style=flat&logo=internet-explorer&logoColor=white" alt="TCP/IP"/>
+  <img src="https://img.shields.io/badge/Protocols-4CAF50?style=flat&logo=lock&logoColor=white" alt="Protocols"/>
+  <img src="https://img.shields.io/badge/DNS-2E8B57?style=flat&logo=cloudflare&logoColor=white" alt="DNS"/>
+  <img src="https://img.shields.io/badge/DHCP-DAA520?style=flat&logo=dhcp&logoColor=white" alt="DHCP"/>
+  <img src="https://img.shields.io/badge/Firewalls-B22222?style=flat&logo=fortinet&logoColor=white" alt="Firewalls"/>
+  <img src="https://img.shields.io/badge/Routing-8A2BE2?style=flat&logo=cisco&logoColor=white" alt="Routing"/>
+  <img src="https://img.shields.io/badge/Switching-FF4500?style=flat&logo=cisco&logoColor=white" alt="Switching"/>
+  <br>
+  <img src="https://img.shields.io/badge/Subnetting-00CED1?style=flat&logo=netlify&logoColor=white" alt="Subnetting"/>
+  <img src="https://img.shields.io/badge/IP%20Addressing-20B2AA?style=flat&logo=internet-explorer&logoColor=white" alt="IP Address"/>
+  <img src="https://img.shields.io/badge/Network%20Troubleshooting%20Commands-FF6347?style=flat&logo=linux&logoColor=white" alt="NTC"/>
 </p>
 
-### 🖥️ Operating Systems
+### 💻 Programming Languages
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Linux-000000?style=flat&logo=linux" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows" />
-</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  </p>
 
-### 🔐 Cyber Security
+---
 
-<p align="left">
-  <img src="https://img.shields.io/badge/SOC_Operations-6A0DAD?style=flat" />
-  <img src="https://img.shields.io/badge/SIEM_(Splunk)-000000?style=flat&logo=splunk" />
-  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-C00000?style=flat" />
-</p>
+## Featured Projects
 
-### 🧰 Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark" />
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat" />
-  <img src="https://img.shields.io/badge/Burp_Suite-F26B00?style=flat" />
-  <img src="https://img.shields.io/badge/Git_%26_GitHub-181717?style=flat&logo=github" />
-</p>
-
-<br></br>
-
-## 📂 Projects (Focused & Relevant)
-
-### 🔹 SOC-Fundamentals
-
-**Description:**
-SOC concepts, alert triage, incident lifecycle, analyst notes
-**Skills Used:** SOC workflow, detection basics
-
-### 🔹 SIEM-Log-Analysis
-
-**Description:**
-Log analysis using Splunk to detect brute-force and suspicious activity
-**Skills Used:** SIEM, alert analysis, log correlation
-
-### 🔹 Networking-Labs
-
-**Description:**
-Packet capture and protocol analysis using Wireshark
-**Skills Used:** TCP/IP, DNS, traffic analysis
-
-### 🔹 Linux-for-SOC
-
-**Description:**
-Linux commands and log locations used by SOC analysts
-**Skills Used:** Linux, permissions, processes, logs
-
-<br></br>
+---
 
 ## 📊 GitHub Activity
 
@@ -100,36 +73,32 @@ Linux commands and log locations used by SOC analysts
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mirzaabubakar469&theme=tokyonight" />
 </p>
 
-<br></br>
+---
 
-## 📚 Learning Platforms
+## 📞 Get in Touch
+📧 **Email:** <a href="mailto:abubakar6984456@gmail.com">abubakar6984456@gmail.com</a>  
+🌐 **Portfolio:** <a href="https://mirzaabubakar469.github.io">mirzaabubakar469.github.i</a>  
+📱 **Phone:** +92 322 5911729  
+📍 **Location:** Pakistan
 
-### 📺 Recommended Tech & Cybersecurity Channels
+---
 
-* **[ITkFunde](https://www.youtube.com/@ITkFunde)**
-  Beginner-friendly videos that explain **IT fundamentals, networking basics, and cybersecurity concepts**.
+## 🤝 Connect With Me
 
-* **[NetworkChuck](https://www.youtube.com/@NetworkChuck)**
-  Tech tutorials covering **networking, systems, and cybersecurity basics**.
-
-* **[TechTermsDG](https://www.youtube.com/@TechTermsDG)**
-  Short tech videos explaining **computer and IT terms**, protocols, and concepts.
-
-* **[Gate Smashers](https://www.youtube.com/@GateSmashers)**
-  Channel focused on **computer science, IT concepts, and practical tech explanations**.
-
-* **[Try Hack Me](https://tryhackme.com/)**
-Hands-on cyber security training through real-world scenarios
-
-<br></br>
-
-## 🤝 Connect
-
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/YOURPROFILE">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin" />
+    <img src="https://img.shields.io/badge/Facebook-0A66C2?style=flat&logo=facebook" />
   </a>
   <a href="abubakar6984456@email.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
+</p>
+
+---
+<h3 align="center"> 🎉 Thanks for visiting my profile! </h2>
+<p align="center">
+✨ Let's work together and defend against att&cks! ✨
+  <p align="center">
+  <img src="https://img.shields.io/badge/Stay-Secure-00CED1?style=for-the-badge&logo=shield&logoColor=white"/>
+  </p>
 </p>
