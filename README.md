@@ -2,8 +2,9 @@
   <p align="center">
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="waving hand"/>
  I'm Mirza Abubakar
-</p>
+  </p>
 </h1>
+
 <p align="center"><strong>
 🕵️‍♂️ SOC Analyst |🔐 Cyber Security Enthusiast |🛡️ Defensive Security
   </strong>
@@ -11,6 +12,16 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&width=700&lines=Security+Operation+Centre;Cyber+Security+Leaner;Defending+Systems" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczhxZ3puZnY2MHF4cW80azBpcmNhc3BkOG03Y3VjZnp3amk2Z2hrbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hun4DFmfnDId3lid5b/giphy.gif"
+    width="600"
+    height="300"
+    alt="Cyber Animation"
+  />
 </p>
 
 ---
@@ -30,14 +41,12 @@
 
 I am actively working on Foundations:
 
-* 🌐 **Networking**
-* 🖥️ **Operating System**
-* 🔐 **Cyber Security**
+* ✅  **Networking**
 
 ---
 
 ## 🛠️ Technical Skills & Tools
-### 🌐 Networking
+### 🌐 Networking Concepts
 
 <p align="left">
   <img src="https://img.shields.io/badge/OSI Model-E34F26?style=flat&logoColor=white" alt="OSI"/>
@@ -59,7 +68,7 @@ I am actively working on Foundations:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  </p>
+</p>
 
 ---
 
@@ -77,7 +86,7 @@ I am actively working on Foundations:
 
 ## 📞 Get in Touch
 📧 **Email:** <a href="mailto:abubakar6984456@gmail.com">abubakar6984456@gmail.com</a>  
-🌐 **Portfolio:** <a href="https://mirzaabubakar469.github.io">mirzaabubakar469.github.i</a>  
+🌐 **Portfolio:** <a href="https://github.com/mirzaabubakar469">mirzaabubakar469</a>  
 📱 **Phone:** +92 322 5911729  
 📍 **Location:** Pakistan
 
@@ -86,11 +95,11 @@ I am actively working on Foundations:
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOURPROFILE">
+  <a href="https://www.facebook.com/mirza.abubakar.18488">
     <img src="https://img.shields.io/badge/Facebook-0A66C2?style=flat&logo=facebook" />
   </a>
-  <a href="abubakar6984456@email.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
+  <a href="mailto:abubakar6984456@email.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
