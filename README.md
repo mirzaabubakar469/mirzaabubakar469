@@ -51,16 +51,6 @@ I am actively working on Foundations:
 <p align="left">
   <img src="https://img.shields.io/badge/OSI Model-E34F26?style=flat&logoColor=white" alt="OSI"/>
   <img src="https://img.shields.io/badge/TCP/IP-0052CC?style=flat&logo=internet-explorer&logoColor=white" alt="TCP/IP"/>
-  <img src="https://img.shields.io/badge/Protocols-4CAF50?style=flat&logo=lock&logoColor=white" alt="Protocols"/>
-  <img src="https://img.shields.io/badge/DNS-2E8B57?style=flat&logo=cloudflare&logoColor=white" alt="DNS"/>
-  <img src="https://img.shields.io/badge/DHCP-DAA520?style=flat&logo=dhcp&logoColor=white" alt="DHCP"/>
-  <img src="https://img.shields.io/badge/Firewalls-B22222?style=flat&logo=fortinet&logoColor=white" alt="Firewalls"/>
-  <img src="https://img.shields.io/badge/Routing-8A2BE2?style=flat&logo=cisco&logoColor=white" alt="Routing"/>
-  <img src="https://img.shields.io/badge/Switching-FF4500?style=flat&logo=cisco&logoColor=white" alt="Switching"/>
-  <br>
-  <img src="https://img.shields.io/badge/Subnetting-00CED1?style=flat&logo=netlify&logoColor=white" alt="Subnetting"/>
-  <img src="https://img.shields.io/badge/IP%20Addressing-20B2AA?style=flat&logo=internet-explorer&logoColor=white" alt="IP Address"/>
-  <img src="https://img.shields.io/badge/Network%20Troubleshooting%20Commands-FF6347?style=flat&logo=linux&logoColor=white" alt="NTC"/>
 </p>
 
 ### 💻 Programming Languages
