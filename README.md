@@ -39,7 +39,7 @@
 
 ## 🌱  Current Focus
 
-I am actively working on Foundations:
+I am actively learning Foundations:
 
 * ✅  **Networking**
 * ✅  **Operating System**
@@ -47,11 +47,15 @@ I am actively working on Foundations:
 ---
 
 ## 🛠️ Technical Skills & Tools
-### 🌐 Networking Concepts
 
-<p align="left">
-  <img src="https://img.shields.io/badge/OSI Model-E34F26?style=flat&logoColor=white" alt="OSI"/>
-  <img src="https://img.shields.io/badge/TCP/IP-0052CC?style=flat&logo=internet-explorer&logoColor=white" alt="TCP/IP"/>
+<p>
+  <img src="https://img.shields.io/badge/Object Oriented Programming-00CED1?style=for-the-badge&logo=shield&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data Structures-00CED1?style=for-the-badge&logo=shield&logoColor=white"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Artifcial Intelligence-00CED1?style=for-the-badge&logo=shield&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine Learning-00CED1?style=for-the-badge&logo=shield&logoColor=white"/>
 </p>
 
 ### 💻 Programming Languages
@@ -91,6 +95,9 @@ I am actively working on Foundations:
   </a>
   <a href="mailto:abubakar6984456@email.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mirza-abubakar-852938319/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn" />
   </a>
 </p>
 
