@@ -42,6 +42,7 @@
 I am actively working on Foundations:
 
 * ✅  **Networking**
+* ✅  **Operating System**
 
 ---
 
