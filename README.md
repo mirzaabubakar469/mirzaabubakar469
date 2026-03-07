@@ -31,8 +31,7 @@
 * I am an **undergraduate BS Computer Science student** focused on **Cyber Security Defensive Operations (SOC)**.
 * My approach to learning:
 
-  * **Fundamentals** – solid understanding of networking, OS, and security concepts
-  * **Hands-on Labs** – practical exercises and simulations
+  * **Fundamentals** – solid understanding of Networking, Operating System, and Security concepts.
   * 🎯 **Goal** – Build a strong foundation to become a **SOC Analyst / Cybersecurity Professional**.
 
 ---
@@ -41,8 +40,8 @@
 
 I am actively learning Foundations:
 
-* ✅  **Networking**
-* ✅  **Operating System**
+✅  **Networking**
+  *  **Operating System**
 
 ---
 
@@ -56,6 +55,11 @@ I am actively learning Foundations:
 <p>
   <img src="https://img.shields.io/badge/Artifcial Intelligence-00CED1?style=for-the-badge&logo=shield&logoColor=white"/>
   <img src="https://img.shields.io/badge/Machine Learning-00CED1?style=for-the-badge&logo=shield&logoColor=white"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Computer Networks-00CED1?style=for-the-badge&logo=shield&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Operating System-00CED1?style=for-the-badge&logo=shield&logoColor=white"/>
 </p>
 
 ### 💻 Programming Languages
