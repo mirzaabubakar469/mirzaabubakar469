@@ -6,12 +6,12 @@
 </h2>
 
 <p align="center"><strong>
-🕵️‍♂️ Aspiring SOC Analyst |🔐 Cybersecurity Enthusiast |🛡️ Learning AI and ML
+🕵️‍♂️ Aspiring SOC Analyst |🔐 Cybersecurity Enthusiast |🤖  Learning AI and ML
   </strong>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&width=700&lines=Security+Operation+Centre;Defending+Systems; AI+with+Cybersecurity" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&width=700&lines=Defending+Systems;AI+Powered+Detection;" />
 </p>
 
 ---
