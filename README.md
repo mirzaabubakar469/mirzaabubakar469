@@ -1,3 +1,4 @@
+https://camo.githubusercontent.com/68747470733a2f2f6578616d706c652e636f6d2f696d6167652e6a7067
 <h2>
   <p align="center">
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="waving hand"/>
