@@ -35,7 +35,7 @@
 </h2>
 
 <div align="center">
-  
+
 ```yaml
 ┌─────────────────────────────────────────────────────────┐
 │                    PROFILE.CONFIG                       │
@@ -228,7 +228,7 @@
 
 <div align="center">
 <br/>
-
+  
 ```
 ╔════════════════════════════════════════════════════════╗
 ║  "The quieter you become, the more you can hear."      ║
