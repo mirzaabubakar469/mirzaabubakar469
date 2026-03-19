@@ -4,7 +4,7 @@
 <!--                        ANIMATED HEADER                        -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0077b6,100:03045e&height=140&section=header&text=Mirza+Abubakar&fontSize=30&fontColor=ffffff&fontAlignY=40&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0077b6,100:03045e&height=145&section=header&text=Mirza+Abubakar&fontSize=30&fontColor=ffffff&fontAlignY=40&animation=fadeIn)
 
 <!-- ANIMATED TYPING -->
 <a href="https://github.com/mirzaabubakar469">
@@ -14,8 +14,7 @@
 <br/><br/>
 
 <!-- PROFILE BADGES ROW -->
-![Visitor Badge](https://komarev.com/ghpvc/?username=mirzaabubakar469&style=for-the-badge&color=00b4d8&labelColor=0d1117&label=PROFILE+VIEWS)
-&nbsp;
+
 [![GitHub followers](https://img.shields.io/github/followers/mirzaabubakar469?style=for-the-badge&color=00b4d8&labelColor=0d1117&logo=github&label=FOLLOWERS)](https://github.com/mirzaabubakar469)
 &nbsp;
 ![Status](https://img.shields.io/badge/STATUS-ACTIVELY%20LEARNING-00b4d8?style=for-the-badge&labelColor=0d1117)
@@ -88,7 +87,7 @@
 <p>
   <!-- <img src="https://img.shields.io/badge/SOC_Operations-0d1117?style=for-the-badge&logo=opsgenie&logoColor=00b4d8&labelColor=161b22"/> -->
   <!-- <img src="https://img.shields.io/badge/Network_Security-0d1117?style=for-the-badge&logo=cisco&logoColor=00b4d8&labelColor=161b22"/> -->
-  <img src="https://img.shields.io/badge/Threat_Detection-0d1117?style=for-the-badge&logo=virustotal&logoColor=00b4d8&labelColor=161b22"/>
+  <img src="https://img.shields.io/badge/Threat_Intelligence-0d1117?style=for-the-badge&logo=virustotal&logoColor=00b4d8&labelColor=161b22"/>
   <img src="https://img.shields.io/badge/SIEM_Analysis-0d1117?style=for-the-badge&logo=elastic&logoColor=00b4d8&labelColor=161b22"/>
   <!-- <img src="https://img.shields.io/badge/Blue_Team-0d1117?style=for-the-badge&logo=hackthebox&logoColor=00b4d8&labelColor=161b22"/> -->
   <img src="https://img.shields.io/badge/Incident_Response-0d1117?style=for-the-badge&logo=pagerduty&logoColor=00b4d8&labelColor=161b22"/>
@@ -143,7 +142,7 @@
     </td>
     <td align="center" width="50%">
       <img src="https://img.shields.io/badge/Google-AI_Professional-34A853?style=for-the-badge&logo=google&logoColor=white" /><br/><br/>
-      <b>Google AI Essentials Certificate</b><br/>
+      <b>Google AI Professional Certificate</b><br/>
       <sub>AI Prompting · Content Generation · Workflow Automation</sub><br/><br/>
       <b>✅ Not Completed</b>
     </td>
@@ -197,7 +196,7 @@
 </a>
 &nbsp;
 <a href="https://github.com/mirzaabubakar469">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/GitHub-Follow-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
 </a>
 &nbsp;
 <a href="mailto:abubakar6984456@gmail.com">
