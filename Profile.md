@@ -4,7 +4,7 @@
 <!--                        ANIMATED HEADER                        -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0077b6,100:03045e&height=145&section=header&text=Mirza+Abubakar&fontSize=30&fontColor=ffffff&fontAlignY=40&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0077b6,100:03045e&height=145&section=header&text=Mirza+Abubakar&fontSize=30&fontColor=grey&fontAlignY=40&animation=fadeIn)
 
 <!-- ANIMATED TYPING -->
 <a href="https://github.com/mirzaabubakar469">
@@ -34,6 +34,8 @@
   <b>$ whoami</b>
 </h2>
 
+<div align="center">
+
 ```yaml
 ┌─────────────────────────────────────────────────────────┐
 │                    PROFILE.CONFIG                       │
@@ -48,6 +50,8 @@
 │  Open To           │  Internships & Collaborations      │
 └────────────────────┴────────────────────────────────────┘
 ```
+</div>
+
 
 > **"Security is not a product, but a process."**
 
@@ -114,7 +118,7 @@
 <h3>⚙️ &nbsp;Tools & Platforms</h3>
 <p>
   <!-- <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/> -->
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Claude-F37626?style=for-the-badge&logo=claude&logoColor=white"/>
   <!-- <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/> -->
@@ -131,21 +135,28 @@
 </h2>
 
 <div align="center">
-
+<!-- ✅ -->
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <img src="https://img.shields.io/badge/Google-Cybersecurity_Professional-4285F4?style=for-the-badge&logo=google&logoColor=white" /><br/><br/>
       <b>Google Cybersecurity Certificate</b><br/>
       <sub>SIEM · IDS · Python · Linux · Incident Response</sub><br/><br/>
-      <b>✅ Not Completed</b>
+      <b>🔲 Not Completed</b>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="40%">
+      <img src="https://img.shields.io/badge/DeepLearning.AI-Machine_Learning_Specialization-0056D2?style=for-the-badge&logo=coursera&logoColor=white" /><br/><br/>
+      <b>Machine Learning Specialization</b><br/>
+      <sub>Supervised Learning · Unsupervised Learning · Reinforcement Learning</sub><br/><br/>
+      <b>🔲 In Progress</b>
+    </td>
+    <!-- <td align="center" width="40%">
       <img src="https://img.shields.io/badge/Google-AI_Professional-34A853?style=for-the-badge&logo=google&logoColor=white" /><br/><br/>
       <b>Google AI Professional Certificate</b><br/>
-      <sub>AI Prompting · Content Generation · Workflow Automation</sub><br/><br/>
-      <b>✅ Not Completed</b>
-    </td>
+      <sub>AI Prompting · Content Generation · Workflow Automation</sub>
+    <br/><br/>
+      <b>🔲 Not Completed</b>
+    </td> -->
   </tr>
 </table>
 
@@ -165,16 +176,10 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=mirzaabubakar469&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&border_radius=10&include_all_commits=true&count_private=true" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirzaabubakar469&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9&border_radius=10&langs_count=6" height="180"/>
-
-<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mirzaabubakar469&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00b4d8&fire=0096c7&currStreakLabel=00b4d8&sideLabels=90e0ef&dates=8b949e&border_radius=10" height="180"/>
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mirzaabubakar469&bg_color=0d1117&color=00b4d8&line=0077b6&point=00b4d8&area=true&area_color=023e8a&hide_border=true&radius=10" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mirzaabubakar469&bg_color=0d1117&color=00b4d8&line=0077b6&point=00b4d8&area=true&area_color=023e8a&hide_border=true&radius=10" width="90%"/>
 
 </div>
 
