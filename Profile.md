@@ -35,7 +35,7 @@
 </h2>
 
 <div align="center">
-
+  
 ```yaml
 ┌─────────────────────────────────────────────────────────┐
 │                    PROFILE.CONFIG                       │
@@ -227,7 +227,6 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-
 <br/>
 
 ```
@@ -242,4 +241,5 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0077b6,100:03045e&height=130&section=footer&text=Stay+Secure+%F0%9F%9B%A1%EF%B8%8F+%7C+Stay+Curious+%F0%9F%94%AC&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
+</div>
 </div>
